@@ -39,7 +39,14 @@
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
 
-
+<br/>
+ 
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ 
+ 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 </div>
