@@ -30,7 +30,7 @@
 
 ### ✏️ About me
  
- [![Example website](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://shrouded-clam-d07.notion.site/Backend-2ebe42c8e789441399650b5362c2b02e/)
+ [![Example website](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://shrouded-clam-d07.notion.site/Backend-2ebe42c8e789441399650b5362c2b02e/){target="_blank"}
 
 
 
