@@ -29,13 +29,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokme76)](https://github.com/nokme76/github-readme-stats)
 
 ### ✏️ About me
+ 
+ [![Example website](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://shrouded-clam-d07.notion.site/Backend-2ebe42c8e789441399650b5362c2b02e/)
 
 
-<a href="https://shrouded-clam-d07.notion.site/Backend-2ebe42c8e789441399650b5362c2b02e/">
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" href="https://shrouded-clam-d07.notion.site/Backend-2ebe42c8e789441399650b5362c2b02e/" />
 
-<a/>
+
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
 
