@@ -31,7 +31,7 @@
 ### ✏️ About me
  
  [![Notion protfolio](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://shrouded-clam-d07.notion.site/Backend-2ebe42c8e789441399650b5362c2b02e/)
-  [![LinkeIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://shrouded-clam-d07.notion.site/Backend-2ebe42c8e789441399650b5362c2b02e/)
+  [![LinkeIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%ED%98%84%EC%84%AD-%EC%8B%A0-21a983266/)
  
 
 <br/>
